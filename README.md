@@ -14,7 +14,7 @@ Storage | 64 GB
 MicroSD | Up to 128 GB
 Battery | 3010 mAh (non-removable)
 Dimensions | 153 × 74.3 × 6.58 mm
-Display | 1080 x 1920 pixels, 5.5" IPS
+Display | 1080 x 1920 pixels, 5.5" AMOLED
 Rear Camera  | 16.0 MP, LED flash
 Front Camera | 16.0 MP
 Release Date | October 2016
