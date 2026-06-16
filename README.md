@@ -1,5 +1,7 @@
 TeamWin Recovery Project
 
+**项目停止维护**
+
 Device configuration for Oppo R9s/sk
 =====================================================
 
